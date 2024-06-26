@@ -1,0 +1,23 @@
+.main-about {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.main-about h1 {
+    text-align: center;
+    font-size: 6em;
+    color: #7176F6;
+}
+
+.gap {
+    margin-top: 2rem;
+}
+
+.main-about p {
+    text-align: center;
+    font-size: 2.5em;
+}

@@ -1,0 +1,325 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "name": "John Doe Scholarship",
+            "amount": 5000,
+            "deadline": "2024-05-31",
+            "requirements": [
+                "GPA of 3.5 or higher",
+                "Letter of recommendation",
+                "Essay submission"
+            ],
+            "description": "The John Doe Scholarship is awarded annually to a deserving student with exceptional academic performance and community involvement.",
+            "provider": {
+                "name": "Doe Foundation",
+                "website": "https://www.doefoundation.org"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith Scholarship",
+            "amount": 7500,
+            "deadline": "2024-06-15",
+            "requirements": [
+                "Demonstrated financial need",
+                "Participation in extracurricular activities",
+                "Minimum SAT score of 1200"
+            ],
+            "description": "The Jane Smith Scholarship aims to support students who have shown dedication to both their studies and their community.",
+            "provider": {
+                "name": "Smith Education Fund",
+                "website": "https://www.smitheducationfund.org"
+            }
+        },
+        {
+            "id": 3,
+            "name": "STEM Excellence Scholarship",
+            "amount": 10000,
+            "deadline": "2024-07-01",
+            "requirements": [
+                "Majoring in a STEM field",
+                "GPA of 3.0 or higher",
+                "Submission of research project"
+            ],
+            "description": "The STEM Excellence Scholarship recognizes outstanding achievements in Science, Technology, Engineering, and Mathematics.",
+            "provider": {
+                "name": "STEM Foundation",
+                "website": "https://www.stemfoundation.org"
+            }
+        },
+        {
+            "id": 4,
+            "name": "Global Citizenship Scholarship",
+            "amount": 6000,
+            "deadline": "2024-06-30",
+            "requirements": [
+                "Participation in international volunteer programs",
+                "Essay on global issues",
+                "Recommendation from a professor"
+            ],
+            "description": "The Global Citizenship Scholarship is awarded to students who have demonstrated a commitment to fostering global understanding and cooperation.",
+            "provider": {
+                "name": "Global Education Initiative",
+                "website": "https://www.globaleducation.org"
+            }
+        },
+        {
+            "id": 5,
+            "name": "Future Leaders Scholarship",
+            "amount": 8000,
+            "deadline": "2024-07-15",
+            "requirements": [
+                "Leadership experience",
+                "Community service involvement",
+                "Minimum GPA of 3.2"
+            ],
+            "description": "The Future Leaders Scholarship supports promising young individuals who exhibit strong leadership potential and a commitment to making a positive impact in their communities.",
+            "provider": {
+                "name": "Leadership Foundation",
+                "website": "https://www.leadershipfoundation.org"
+            }
+        },
+        {
+            "id": 6,
+            "name": "Arts Excellence Scholarship",
+            "amount": 7000,
+            "deadline": "2024-07-10",
+            "requirements": [
+                "Majoring in an arts-related field",
+                "Portfolio submission",
+                "Recommendation from an arts teacher"
+            ],
+            "description": "The Arts Excellence Scholarship recognizes outstanding talent and dedication in the field of arts, including visual arts, performing arts, and creative writing.",
+            "provider": {
+                "name": "Arts Foundation",
+                "website": "https://www.artsfoundation.org"
+            }
+        },
+        {
+            "id": 7,
+            "name": "Healthcare Professional Scholarship",
+            "amount": 9000,
+            "deadline": "2024-08-05",
+            "requirements": [
+                "Pursuing a degree in healthcare",
+                "Demonstrated commitment to healthcare field",
+                "Minimum GPA of 3.5"
+            ],
+            "description": "The Healthcare Professional Scholarship is awarded to students who are dedicated to pursuing careers in healthcare and making meaningful contributions to the field.",
+            "provider": {
+                "name": "Healthcare Foundation",
+                "website": "https://www.healthcarefoundation.org"
+            }
+        },
+        {
+            "id": 8,
+            "name": "Diversity and Inclusion Scholarship",
+            "amount": 5500,
+            "deadline": "2024-07-25",
+            "requirements": [
+                "Demonstrated commitment to diversity and inclusion",
+                "Essay on promoting diversity",
+                "Recommendation from a diversity advocate"
+            ],
+            "description": "The Diversity and Inclusion Scholarship supports students who actively promote diversity, equity, and inclusion within their communities and academic institutions.",
+            "provider": {
+                "name": "Diversity Initiative Fund",
+                "website": "https://www.diversityinitiative.org"
+            }
+        },
+        {
+            "id": 9,
+            "name": "Environmental Stewardship Scholarship",
+            "amount": 6500,
+            "deadline": "2024-08-10",
+            "requirements": [
+                "Commitment to environmental conservation",
+                "Essay on environmental activism",
+                "Recommendation from an environmental organization"
+            ],
+            "description": "The Environmental Stewardship Scholarship recognizes students who are dedicated to preserving and protecting the environment through activism, education, and advocacy.",
+            "provider": {
+                "name": "Environmental Alliance",
+                "website": "https://www.environmentalalliance.org"
+            }
+        },
+        {
+            "id": 10,
+            "name": "Entrepreneurial Spirit Scholarship",
+            "amount": 7500,
+            "deadline": "2024-08-15",
+            "requirements": [
+                "Demonstrated entrepreneurial initiative",
+                "Business plan submission",
+                "Minimum GPA of 3.0"
+            ],
+            "description": "The Entrepreneurial Spirit Scholarship is awarded to students who have demonstrated creativity, innovation, and a strong entrepreneurial drive.",
+            "provider": {
+                "name": "Entrepreneurship Foundation",
+                "website": "https://www.entrepreneurshipfoundation.org"
+            }
+        },
+        {
+            "id": 11,
+            "name": "Women in STEM Scholarship",
+            "amount": 8500,
+            "deadline": "2024-09-01",
+            "requirements": [
+                "Female student majoring in a STEM field",
+                "Essay on women in STEM",
+                "Recommendation from a STEM professor"
+            ],
+            "description": "The Women in STEM Scholarship aims to empower and support female students pursuing careers in Science, Technology, Engineering, and Mathematics.",
+            "provider": {
+                "name": "Women in STEM Initiative",
+                "website": "https://www.womeninsteminitiative.org"
+            }
+        },
+        {
+            "id": 12,
+            "name": "Community Leadership Scholarship",
+            "amount": 6000,
+            "deadline": "2024-09-05",
+            "requirements": [
+                "Leadership roles in community organizations",
+                "Community service involvement",
+                "Minimum GPA of 3.2"
+            ],
+            "description": "The Community Leadership Scholarship recognizes students who have demonstrated exceptional leadership skills and a commitment to improving their communities.",
+            "provider": {
+                "name": "Community Leadership Foundation",
+                "website": "https://www.communityleadershipfoundation.org"
+            }
+        },
+        {
+            "id": 13,
+            "name": "Tech Innovator Scholarship",
+            "amount": 8000,
+            "deadline": "2024-09-15",
+            "requirements": [
+                "Innovative technology project",
+                "Essay on technology innovation",
+                "Recommendation from a technology mentor"
+            ],
+            "description": "The Tech Innovator Scholarship supports students who have demonstrated creativity and innovation in the field of technology.",
+            "provider": {
+                "name": "Tech Innovation Institute",
+                "website": "https://www.techinnovationinstitute.org"
+            }
+        },
+        {
+            "id": 14,
+            "name": "First-Generation College Student Scholarship",
+            "amount": 7000,
+            "deadline": "2024-09-20",
+            "requirements": [
+                "First-generation college student",
+                "Essay on overcoming challenges",
+                "Recommendation from a teacher or mentor"
+            ],
+            "description": "The First-Generation College Student Scholarship is awarded to students who are the first in their families to attend college and have demonstrated academic excellence and perseverance.",
+            "provider": {
+                "name": "First-Gen Foundation",
+                "website": "https://www.firstgenfoundation.org"
+            }
+        },
+        {
+            "id": 15,
+            "name": "Creative Writing Scholarship",
+            "amount": 6500,
+            "deadline": "2024-10-01",
+            "requirements": [
+                "Submission of original creative writing piece",
+                "Essay on writing process",
+                "Recommendation from an English teacher"
+            ],
+            "description": "The Creative Writing Scholarship is awarded to talented writers who demonstrate exceptional creativity and skill in the art of writing.",
+            "provider": {
+                "name": "Creative Writing Society",
+                "website": "https://www.creativewritingsociety.org"
+            }
+        },
+        {
+            "id": 16,
+            "name": "Financial Literacy Scholarship",
+            "amount": 7500,
+            "deadline": "2024-10-05",
+            "requirements": [
+                "Completion of financial literacy course",
+                "Essay on financial responsibility",
+                "Recommendation from a financial advisor"
+            ],
+            "description": "The Financial Literacy Scholarship is awarded to students who have demonstrated a commitment to financial responsibility and understanding through education and advocacy.",
+            "provider": {
+                "name": "Financial Education Foundation",
+                "website": "https://www.financialeducationfoundation.org"
+            }
+        },
+        {
+            "id": 17,
+            "name": "Civic Engagement Scholarship",
+            "amount": 7000,
+            "deadline": "2024-10-15",
+            "requirements": [
+                "Active involvement in civic organizations",
+                "Essay on civic engagement",
+                "Recommendation from a civic leader"
+            ],
+            "description": "The Civic Engagement Scholarship recognizes students who are actively engaged in their communities and demonstrate a commitment to civic responsibility and leadership.",
+            "provider": {
+                "name": "Civic Engagement Alliance",
+                "website": "https://www.civicengagementalliance.org"
+            }
+        },
+        {
+            "id": 18,
+            "name": "Minority Empowerment Scholarship",
+            "amount": 8000,
+            "deadline": "2024-10-20",
+            "requirements": [
+                "Belonging to a minority group",
+                "Essay on minority empowerment",
+                "Recommendation from a community leader"
+            ],
+            "description": "The Minority Empowerment Scholarship is awarded to minority students who have demonstrated leadership, academic achievement, and a commitment to empowering their communities.",
+            "provider": {
+                "name": "Minority Empowerment Foundation",
+                "website": "https://www.minorityempowermentfoundation.org"
+            }
+        },
+        {
+            "id": 19,
+            "name": "Sports Leadership Scholarship",
+            "amount": 7500,
+            "deadline": "2024-11-01",
+            "requirements": [
+                "Leadership roles in sports teams or organizations",
+                "Community service involvement",
+                "Minimum GPA of 3.0"
+            ],
+            "description": "The Sports Leadership Scholarship recognizes student-athletes who demonstrate exceptional leadership skills both on and off the field.",
+            "provider": {
+                "name": "Sports Leadership Institute",
+                "website": "https://www.sportsleadershipinstitute.org"
+            }
+        },
+        {
+            "id": 20,
+            "name": "Music Excellence Scholarship",
+            "amount": 7000,
+            "deadline": "2024-11-05",
+            "requirements": [
+                "Majoring in music or music-related field",
+                "Audition or performance submission",
+                "Recommendation from a music instructor"
+            ],
+            "description": "The Music Excellence Scholarship recognizes exceptional talent and dedication in the field of music, including performance, composition, and music education.",
+            "provider": {
+                "name": "Music Foundation",
+                "website": "https://www.musicfoundation.org"
+            }
+        }
+    ]
+}
